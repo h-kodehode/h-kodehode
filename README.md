@@ -3,7 +3,7 @@
 <!-- 🎨 LEGG TIL DIN LOGO HER -->
 <!-- Erstatt med din egen logo eller fjern denne seksjonen -->
 <p align="center">
-  <img src="[DIN-LOGO-URL]" alt="[DITT NAVN] Logo" width="200"/>
+  <img src="[DIN-LOGO-URL]" alt="[Helez Ismail] Logo" width="200"/>
 </p>
 
 <!-- ✨ Animert header med din info -->
@@ -11,10 +11,11 @@
 
 <!-- 📱 Social badges - Fyll inn dine lenker -->
 <p align="center">
-  <a href="mailto:[DIN-EMAIL]">
+  <a href="mailto:[helez_92@hotmail.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[DIN-LINKEDIN-URL]">
+  <!-- Legg til Linkedin profil senere -->
+  <!-- <a href="[DIN-LINKEDIN-URL]"> -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="[DIN-PORTFOLIO-URL]">
@@ -24,7 +25,7 @@
 </p>
 
 <!-- 👀 Profile views counter - Erstatt med ditt GitHub brukernavn -->
-<img src="https://komarev.com/ghpvc/?username=[DITT-GITHUB-BRUKERNAVN]&color=FF6B9D&style=flat-square&label=Profile+Views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=[h-kodehode]&color=FF6B9D&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
@@ -45,34 +46,26 @@
 <tr>
 <td width="60%">
 
-### 🌸 Who am I?
+### 🌸 Hvem er jeg?
 
-Hey there! I'm **[YOUR NAME]**, a [DESCRIBE YOURSELF - e.g., "creative and detail-oriented frontend developer"] based in **[YOUR CITY/LOCATION]** 📍. [YOUR CODING JOURNEY - e.g., "I discovered my passion for coding in 2024 and haven't looked back since!"]
+Hei, mitt navn er Helez og er student innen frontend- og fullstack-utvikling. Bor i Sandefjord📍
 
-### ✨ My Journey
+### ✨ Min reise
 
-As a **Frontend Developer**, [DESCRIBE YOUR JOURNEY - e.g., "I love bringing designs to life and creating seamless user experiences. Every project is an opportunity to learn something new!"]
+Jeg startet reisen min uten tidligere erfaring fra koding, men med stor nysgjerrighet og et ønske om å forstå hvordan moderne teknologi bygges.
+Gjennom studiene har jeg lært å jobbe med verktøy som React, Next.js, Node.js, Express, MongoDB, Sanity og Tailwind CSS, og jeg blir stadig mer komfortabel med å bygge interaktive og responsive løsninger.
 
-### 💭 What motivates me?
+For meg handler programmering ikke bare om kode, men om kreativ problemløsning og det å kunne skape noe som faktisk fungerer og ser bra ut.
 
-```javascript
-const aboutMe = {
-  code: "[YEAR YOU STARTED]",
-  passion: "[YOUR PASSION - e.g., 'Creating beautiful, accessible web experiences']",
-  learning: [
-    "[LEARNING AREA 1]",
-    "[LEARNING AREA 2]",
-    "[LEARNING AREA 3]",
-  ],
-  goal: "[YOUR GOAL - e.g., 'Build projects that make a difference ✨']",
-  funFact: "[A FUN FACT ABOUT YOU]"
-};
-```
+### 💭 Min motivasjon?
+
+Det som motiverer meg mest er muligheten til å kombinere kreativitet og logisk tenkning gjennom kode.
+Jeg liker å bygge løsninger som ikke bare fungerer teknisk, men også gir en god opplevelse for brukeren.
 
 ### � Wha t I work with
 
-- ✨ **Frontend Magic** - [YOUR FRONTEND TECHNOLOGIES]
-- 🎨 **Design & Styling** - [YOUR STYLING TOOLS]
+- ✨ **Frontend Magic** - [React, Next.js, ]
+- 🎨 **Design & Styling** - [Tailwind CSS]
 - �️ **Doevelopment Tools** - [YOUR TOOLS]
 - 💡 **Always Exploring** - [WHAT YOU'RE LEARNING]
 
@@ -113,7 +106,7 @@ const aboutMe = {
 
 ### � My Philosoophy
 
-> *"[YOUR PHILOSOPHY OR MOTTO - e.g., 'Design is not just what it looks like, design is how it works. I strive to create experiences that are both beautiful and functional.']"*
+> _"[What I don’t know yet is just another feature waiting to be built.]"_
 
 <br/>
 
@@ -135,6 +128,7 @@ const aboutMe = {
 <td valign="top" width="33%">
 
 ### 🎯 Frontend
+
 <!-- ✏️ Add your technologies here -->
 <div align="center">
 
@@ -150,6 +144,7 @@ const aboutMe = {
 <td valign="top" width="33%">
 
 ### 💅 Styling
+
 <div align="center">
 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -164,6 +159,7 @@ const aboutMe = {
 <td valign="top" width="33%">
 
 ### 🛠️ Tools
+
 <div align="center">
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -334,7 +330,7 @@ const contact = {
   linkedin: "[YOUR-LINKEDIN]",
   portfolio: "[YOUR-PORTFOLIO]",
   availability: "[e.g., 'Open to opportunities']",
-  interests: ["[INTEREST 1]", "[INTEREST 2]", "[INTEREST 3]"]
+  interests: ["[INTEREST 1]", "[INTEREST 2]", "[INTEREST 3]"],
 };
 
 // Let's create something amazing together! 💫
@@ -377,7 +373,7 @@ const contact = {
 
 <br/>
 
-> *"[YOUR PERSONAL QUOTE OR MOTTO]"*  
+> _"[YOUR PERSONAL QUOTE OR MOTTO]"_  
 > **– [Your Name]**
 
 <br/>
