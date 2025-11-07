@@ -16,8 +16,8 @@
   </a>
   <!-- Legg til Linkedin profil senere -->
   <!-- <a href="[DIN-LINKEDIN-URL]"> -->
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+    <!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> -->
   <a href="[DIN-PORTFOLIO-URL]">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
@@ -48,7 +48,7 @@
 
 ### 🌸 Hvem er jeg?
 
-Hei, mitt navn er Helez og er student innen frontend- og fullstack-utvikling. Bor i Sandefjord📍
+Hei, mitt navn er Helez Ismail og er student innen frontend- og fullstack-utvikling. Bor i Sandefjord📍
 
 ### ✨ Min reise
 
