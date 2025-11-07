@@ -25,7 +25,8 @@
 </p>
 
 <!-- 👀 Profile views counter - Erstatt med ditt GitHub brukernavn -->
-<img src="https://komarev.com/ghpvc/?username=[h-kodehode]&color=FF6B9D&style=flat-square&label=Profile+Views" alt="Profile views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=[h-kodehode]&color=FF6B9D&style=flat-square&label=Profile+Views" alt="Profile views"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFC0CB,FFB6C1,FF69B4&height=50&section=divider&animation=fadeIn" alt="Gradient Divider" />
 
 </div>
 
