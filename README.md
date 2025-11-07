@@ -28,6 +28,10 @@
   <!-- Legg til flere sosiale lenker etter behov -->
 </p>
 
+<br/>
+<br/>
+<br/>
+
 <!-- 👀 Profile views counter - Erstatt med ditt GitHub brukernavn -->
 <!-- <img src="https://komarev.com/ghpvc/?username=[h-kodehode]&color=FF6B9D&style=flat-square&label=Profile+Views" alt="Profile views"/> -->
 
