@@ -34,8 +34,6 @@
 
 <!-- 👀 Profile views counter - Erstatt med ditt GitHub brukernavn -->
 <!-- <img src="https://komarev.com/ghpvc/?username=[h-kodehode]&color=FF6B9D&style=flat-square&label=Profile+Views" alt="Profile views"/> -->
-<br/>
-<br/>
 </div>
 
 <!-- Rosa gradient divider -->
@@ -45,8 +43,6 @@
 
 <!-- Gradient divider dominert av rosa -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE5EC,FFB6C1,FF69B4,FF1493&height=50&section=divider&animation=waving&speed=1.2" alt="Gradient Divider" />
-
-<br/>
 
 ## 💫 About Me
 
