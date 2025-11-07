@@ -75,10 +75,10 @@ Jeg liker å bygge løsninger som ikke bare fungerer teknisk, men også gir en g
 
 ### � Mine skills
 
-- ✨ **Frontend Magic** - [React, Next.js,, Node.js ]
-- 🎨 **Design & Styling** - [Tailwind CSS]
-- �️ **Development Tools** - [VS Code, Git, GitHub, Vite, Node.js, NPM, Figma, Sanity, MongoDB]
-- 💡 **Always Exploring** - [WHAT YOU'RE LEARNING]
+- ✨ **Frontend Magic** - [Javascript, React, Next.js]
+- 🎨 **Design & Styling** - [Tailwind CSS, Figma]
+- �️ **Development Tools** - [VS Code, Git, GitHub, Vite, Node.js, NPM, Figma, Sanity, MongoDB, MSSQL]
+- 💡 **Always Exploring** - [Fullstack Patterns]
 
 </td>
 <td width="40%" align="center">
@@ -91,7 +91,7 @@ Jeg liker å bygge løsninger som ikke bare fungerer teknisk, men også gir en g
 
 ```yaml
 📍 Location: [Sandefjord]
-💼 Status: [""]
+💼 Status: ["OpenToWork"]
 🎯 Focus: ["React & Modern CSS"]
 ```
 
