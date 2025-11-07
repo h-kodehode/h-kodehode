@@ -44,7 +44,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,14,16,18,20&height=120&section=header&text=Get%20to%20know%20me&fontSize=35&fontColor=fff&animation=twinkling" alt="About Header" />
 </div> -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FFE5EC,FFB6C1,FF69B4&height=120&section=header&text=Get%20to%20know%20me&fontSize=35&fontColor=fff&animation=twinkling" alt="About Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FFDDE6,B3E5FC,FFB6C1&height=120&section=header&text=Get%20to%20know%20me&fontSize=35&fontColor=fff&animation=twinkling" alt="About Header" />
 </div>
 
 <table>
