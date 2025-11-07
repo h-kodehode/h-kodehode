@@ -32,7 +32,7 @@
 <br/>
 
 <!-- Rosa gradient divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE5EC,FFB6C1,FF69B4&height=50&section=divider&animation=fadeIn" alt="Gradient Divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE5EC,FFB6C1,FF69B4&height=50&section=divider&animation=twinkling" alt="Gradient Divider" />
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
