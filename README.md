@@ -33,8 +33,6 @@
 
 </div>
 
-<br/>
-
 <!-- Rosa gradient divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE5EC,FFB6C1,FF69B4&height=50&section=divider&animation=twinkling" alt="Gradient Divider" />
 
