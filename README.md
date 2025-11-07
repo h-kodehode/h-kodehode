@@ -31,16 +31,13 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE5EC,FFB6C1,FF69B4&height=50&section=divider&animation=waving&speed=2" alt="Gradient Divider" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE5EC,FFB6C1,FF69B4,FF1493&height=50&section=divider&animation=waving&speed=1" alt="Gradient Divider" />
-
 <!-- Rosa gradient divider -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE5EC,FFB6C1,FF69B4&height=50&section=divider&animation=fadeIn" alt="Gradient Divider" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE5EC,FFB6C1,FF69B4&height=50&section=divider&animation=fadeIn" alt="Gradient Divider" />
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- Gradient divider dominert av rosa -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE5EC,FFB6C1,FF69B4,FF1493&height=50&section=divider&animation=fadeIn" alt="Gradient Divider" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE5EC,FFB6C1,FF69B4,FF1493&height=50&section=divider&animation=fadeIn" alt="Gradient Divider" />
 
 <br/>
 
