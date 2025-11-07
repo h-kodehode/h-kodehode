@@ -7,7 +7,11 @@
 </p> -->
 
 <!-- ✨ Animert header med din info -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&duration=2000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=650&lines=Hi!+I'm+[Helez+Ismail]+%F0%9F%8C%B8;Frontend+Developer+%E2%9C%A8;Building+beautiful+interfaces;[React]+%7C+[Next.js]+%7C+[Node.js];Passionate+about+UX+%26+Design+%F0%9F%8E%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=650&lines=Hi!+I'm+[Helez+Ismail]+%F0%9F%8C%B8;Frontend+Developer+%E2%9C%A8;Building+beautiful+interfaces;[React]+%7C+[Next.js]+%7C+[Node.js];Passionate+about+UX+%26+Design+%F0%9F%8E%A8" alt="Typing SVG" />
+
+<br/>
+
+<br/>
 
 <!-- 📱 Social badges - Fyll inn dine lenker -->
 <p align="center">
