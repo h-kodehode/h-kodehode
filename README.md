@@ -3,11 +3,11 @@
 <!-- 🎨 LEGG TIL DIN LOGO HER -->
 <!-- Erstatt med din egen logo eller fjern denne seksjonen -->
 <p align="center">
-  <img src="[DIN-LOGO-URL]" alt="[Helez Ismail] Logo" width="200"/>
+  <img src="[DIN-LOGO-URL]" alt="[logo] Logo" width="200"/>
 </p>
 
 <!-- ✨ Animert header med din info -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&duration=2000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=650&lines=Hi!+I'm+[YOUR+NAME]+%F0%9F%8C%B8;Frontend+Developer+%E2%9C%A8;Building+beautiful+interfaces;[TECH+1]+%7C+[TECH+2]+%7C+[TECH+3];Passionate+about+UX+%26+Design+%F0%9F%8E%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&duration=2000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=650&lines=Hi!+I'm+[Helez Ismail]+%F0%9F%8C%B8;Frontend+Developer+%E2%9C%A8;Building+beautiful+interfaces;[TECH+1]+%7C+[TECH+2]+%7C+[TECH+3];Passionate+about+UX+%26+Design+%F0%9F%8E%A8" alt="Typing SVG" />
 
 <!-- 📱 Social badges - Fyll inn dine lenker -->
 <p align="center">
