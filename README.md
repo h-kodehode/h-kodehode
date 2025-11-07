@@ -40,8 +40,11 @@
 
 ## 💫 About Me
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,14,16,18,20&height=120&section=header&text=Get%20to%20know%20me&fontSize=35&fontColor=fff&animation=twinkling" alt="About Header" />
+</div> -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FFE5EC,FFB6C1,FF69B4,FFB6C1,FFE5EC&height=120&section=header&text=Get%20to%20know%20me&fontSize=35&fontColor=fff&animation=twinkling" alt="About Header" />
 </div>
 
 <table>
