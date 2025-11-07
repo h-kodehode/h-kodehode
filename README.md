@@ -386,7 +386,7 @@ const contact = {
 
 <br/>
 
-> _"[Everything I don't know yet is just something I haven't coded — yet.]"_  
+> _"[Everything I don't know yet is just something I haven't coded — yet...]"_  
 > **– [Your Name]**
 
 <br/>
