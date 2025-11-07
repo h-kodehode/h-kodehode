@@ -77,7 +77,7 @@ Jeg liker å bygge løsninger som ikke bare fungerer teknisk, men også gir en g
 
 - ✨ **Frontend Magic** - [React, Next.js,, Node.js ]
 - 🎨 **Design & Styling** - [Tailwind CSS]
-- �️ **Development Tools** - [YOUR TOOLS]
+- �️ **Development Tools** - [VS Code, Git, GitHub, Vite, Node.js, NPM, Figma, Sanity, MongoDB]
 - 💡 **Always Exploring** - [WHAT YOU'RE LEARNING]
 
 </td>
