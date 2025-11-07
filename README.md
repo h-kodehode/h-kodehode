@@ -53,7 +53,7 @@ Hei, mitt navn er Helez og er student innen frontend- og fullstack-utvikling. Bo
 ### ✨ Min reise
 
 Jeg startet reisen min uten tidligere erfaring fra koding, men med stor nysgjerrighet og et ønske om å forstå hvordan moderne teknologi bygges.
-Gjennom studiene har jeg lært å jobbe med verktøy som React, Next.js, Node.js, Express, MongoDB, Sanity og Tailwind CSS, og jeg blir stadig mer komfortabel med å bygge interaktive og responsive løsninger.
+Gjennom studiene har jeg lært å jobbe med verktøy som React, Next.js, Node.js, Express, MongoDB, Sanity og Tailwind CSS.
 
 For meg handler programmering ikke bare om kode, men om kreativ problemløsning og det å kunne skape noe som faktisk fungerer og ser bra ut.
 
@@ -62,7 +62,7 @@ For meg handler programmering ikke bare om kode, men om kreativ problemløsning 
 Det som motiverer meg mest er muligheten til å kombinere kreativitet og logisk tenkning gjennom kode.
 Jeg liker å bygge løsninger som ikke bare fungerer teknisk, men også gir en god opplevelse for brukeren.
 
-### � Wha t I work with
+### � Mine skills
 
 - ✨ **Frontend Magic** - [React, Next.js, ]
 - 🎨 **Design & Styling** - [Tailwind CSS]
@@ -79,24 +79,25 @@ Jeg liker å bygge løsninger som ikke bare fungerer teknisk, men også gir en g
 <div align="center">
 
 ```yaml
-📍 Location: [YOUR CITY]
-💼 Status: [YOUR STATUS - e.g., "Open to opportunities"]
-🎯 Focus: [YOUR FOCUS - e.g., "React & Modern CSS"]
+📍 Location: [Sandefjord]
+💼 Status: [""]
+🎯 Focus: ["React & Modern CSS"]
 ```
 
 </div>
 
 <br/>
+<!-- 
+Fylle inn etterhvert -->
+<!-- ### � Quick Facts
 
-### � Quick Facts
-
-```
+````
 💖 [FUN FACT 1]
 🎵 [FUN FACT 2]
 🌱 [FUN FACT 3]
 ✨ [FUN FACT 4]
 🎨 [FUN FACT 5]
-```
+``` -->
 
 </td>
 </tr>
@@ -106,7 +107,8 @@ Jeg liker å bygge løsninger som ikke bare fungerer teknisk, men også gir en g
 
 ### � My Philosoophy
 
-> _"[What I don’t know yet is just another feature waiting to be built.]"_
+> _"[ Everything I don't know yet is just something I haven't coded — yet.
+]"_
 
 <br/>
 
@@ -251,7 +253,7 @@ Jeg liker å bygge løsninger som ikke bare fungerer teknisk, men også gir en g
 ### � WMore Projects
 
 <div align="center" style="margin: 40px 0;">
-  
+
 <p>
   <a href="[YOUR-GITHUB-PROFILE-URL]?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_All_Projects-FF6B9D?style=for-the-badge&logo=github&logoColor=white"/>
@@ -276,7 +278,7 @@ Jeg liker å bygge løsninger som ikke bare fungerer teknisk, men også gir en g
 <!-- 📝 Replace [YOUR-GITHUB-USERNAME] with your actual GitHub username -->
 
 <div align="center">
-  
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFF&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=FF6B9D&text_color=FFF&bg_color=0d1117"/>
 
@@ -334,7 +336,7 @@ const contact = {
 };
 
 // Let's create something amazing together! 💫
-```
+````
 
 <br/>
 
