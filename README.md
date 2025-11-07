@@ -25,15 +25,15 @@
 </p>
 
 <!-- 👀 Profile views counter - Erstatt med ditt GitHub brukernavn -->
-<!-- <img src="https://komarev.com/ghpvc/?username=[h-kodehode]&color=FF6B9D&style=flat-square&label=Profile+Views" alt="Profile views"/> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFC0CB,FFB6C1,FF69B4&height=50&section=divider&animation=fadeIn" alt="Gradient Divider" />
+<img src="https://komarev.com/ghpvc/?username=[h-kodehode]&color=FF6B9D&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
 <br/>
 
 <!-- Gradient divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFC0CB,FFB6C1,FF69B4&height=50&section=divider&animation=fadeIn" alt="Gradient Divider" />
 
 <br/>
 
