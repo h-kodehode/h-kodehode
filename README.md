@@ -50,7 +50,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,14,16,18,20&height=120&section=header&text=Get%20to%20know%20me&fontSize=35&fontColor=fff&animation=twinkling" alt="About Header" />
 </div> -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=ADD8FF,FFCEE7,FFB6C1&height=120&section=header&text=Get%20to%20know%20me&fontSize=35&fontColor=FFE5EC&animation=twinkling" alt="About Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=ADD8FF,FFCEE7,FFB6C1&height=100&section=header&text=Get%20to%20know%20me&fontSize=35&fontColor=FFE5EC&animation=twinkling" alt="About Header" />
 </div>
 
 <table>
